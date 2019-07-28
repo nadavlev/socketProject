@@ -1,0 +1,7 @@
+<p>socketio works!</p>
+
+<input type="text" #message name="message" id=""><br>
+<input type="button" (click)="sendMessage(message.value)" value="send to server">
+<pre>
+  {{recieveMessage | json}}
+</pre>
