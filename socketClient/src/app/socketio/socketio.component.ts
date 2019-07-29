@@ -9,20 +9,20 @@ import { Subscription } from 'rxjs';
 })
 export class SocketioComponent implements OnInit, OnDestroy {
   recieveMessage: string;
-  private subscription: Subscription;
+  private messageSub$: Subscription;
   constructor(
     private socketIoService: SocketIoMessagingService
   ) { }
 
   ngOnInit() {
-    this.subscription = this.socketIoService.message.subscribe(res => {
+    this.messageSub$ = this.socketIoService.message.subscribe(res => {
       console.log(res);
       this.recieveMessage = res;
     });
   }
 
   ngOnDestroy(): void {
-    this.subscription.unsubscribe();
+    this.messageSub$.unsubscribe();
   }
 
   sendMessage(msg: string) {
