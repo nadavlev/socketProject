@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00193210-0625-40e0-a742-2af81777ca40" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../socketClient/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socketClient/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socketClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socketClient/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../socketClient/src/app/socketio/socketio.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../socketClient/src/app/socketio/socketio.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/socketio.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -148,12 +142,12 @@
       <workItem from="1563871006772" duration="109000" />
       <workItem from="1563972043834" duration="3188000" />
       <workItem from="1564330397426" duration="4000" />
-      <workItem from="1564399898079" duration="2686000" />
+      <workItem from="1564399898079" duration="2819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17500000" />
+    <option name="totallyTimeSpent" value="17633000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="974" height="1047" extended-state="0" />

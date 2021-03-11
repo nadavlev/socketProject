@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08c02d27-b68a-470f-b4b7-31f5730a90f8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/socketio/socketio.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/socketio/socketio.component.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socketServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../socketServer/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socketServer/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/../socketServer/app.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../socketServer/app2.js" beforeDir="false" />
@@ -236,12 +239,12 @@
       <workItem from="1563738118115" duration="1658000" />
       <workItem from="1563805037122" duration="3937000" />
       <workItem from="1563877723949" duration="17029000" />
-      <workItem from="1564400363714" duration="1501000" />
+      <workItem from="1564400363714" duration="1586000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24125000" />
+    <option name="totallyTimeSpent" value="24210000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
